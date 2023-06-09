@@ -39,4 +39,4 @@ Feel free to experiment with different parameter values to create unique visuali
 
 ## License
 
-This code is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify it for personal and commercial projects.
+This repository is licensed under the [MIT License](LICENSE).
