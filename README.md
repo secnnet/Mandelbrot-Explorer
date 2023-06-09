@@ -37,10 +37,6 @@ The provided code offers several options for customization:
 
 Feel free to experiment with different parameter values to create unique visualizations of the Mandelbrot set.
 
-## Contributing
-
-If you have any suggestions, improvements, or bug reports, please open an issue or submit a pull request on the GitHub repository.
-
 ## License
 
 This code is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify it for personal and commercial projects.
